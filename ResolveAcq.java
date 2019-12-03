@@ -17,7 +17,7 @@ public class ResolveAcq {
             System.out.println("Уравнение не имеет корней");
         } else {
             float x = -b / (2 * a);
-            System.out.println("x = " + x);
+            System.out.println("x = " + x) ;
         }
     }
 }
